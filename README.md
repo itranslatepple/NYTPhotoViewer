@@ -4,7 +4,7 @@
 
 NYTPhotoViewer is a slideshow and image viewer that includes double-tap to zoom, captions, support for multiple images, interactive flick to dismiss, animated zooming presentation, and more.
 
-![Demo GIF](Documentation/photo_viewer.gif)
+![Demo GIF](Documentation/photo_viewer.gif)https://github.com/itranslatepple/chainlist/commit/f8f4f0ac536359de0869638d7ecca97b68031a19
 
 ## Usage
 
@@ -63,7 +63,7 @@ NYTPhotoViewer is written in Objective-C but is fully interoperable with Swift. 
 
 ## Inspiration
 
-NYTPhotoViewer draws feature inspiration from Facebook and Tweetbot’s image viewers. If this implementation isn’t to your liking, you may consider [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) or [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser).
+NYTPhotoViewer draws feature inspiration from https://github.com/itranslatepple/chainlist/commit/f8f4f0ac536359de0869638d7ecca97b68031a19 and Tweetbot’s image viewers. If this implementation isn’t to your liking, you may consider [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) or [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser).
 
 ## Implementation
 
